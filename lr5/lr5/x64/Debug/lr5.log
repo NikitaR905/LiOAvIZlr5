@@ -1,0 +1,3 @@
+﻿  lr5.cpp
+C:\Users\user\Desktop\ПГУ\2 курс\ЛиОАвИЗ\lub5\lr5\lr5.cpp(113,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  lr5.vcxproj -> C:\Users\user\Desktop\ПГУ\2 курс\ЛиОАвИЗ\lub5\lr5\x64\Debug\lr5.exe
